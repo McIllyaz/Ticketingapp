@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{F9BCBD11-AA46-46FF-B5DE-BFBA181137B8}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TicketingApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicketingApp/Controllers/EventController.cs">
+    <Files>
+      <File FileName="TicketingApp/Controllers/EventController.cs" Line="23" Column="47" />
+      <File FileName="TicketingApp/Models/Repository/EventRepository.cs" Line="19" Column="1" />
+      <File FileName="TicketingApp/Controllers/StageController.cs" Line="21" Column="10" />
+      <File FileName="TicketingApp/Models/Repository/StageRepository.cs" Line="24" Column="41" />
+      <File FileName="TicketingApp/Controllers/UserController.cs" Line="39" Column="27" />
+      <File FileName="TicketingApp/Models/Repository/TransaksiRepository.cs" Line="21" Column="50" />
+      <File FileName="TicketingApp/Controllers/TransaksiController.cs" Line="17" Column="1" />
+      <File FileName="TicketingApp/Models/Repository/UserRepository.cs" Line="25" Column="16" />
+      <File FileName="TicketingApp/Models/Entity/User.cs" Line="30" Column="1" />
+      <File FileName="TicketingApp/Models/Context/DbContext.cs" Line="33" Column="14" />
+      <File FileName="TicketingApp/Views/frmLogin.cs" Line="21" Column="1" />
+      <File FileName="TicketingApp/Models/Entity/Event.cs" Line="1" Column="1" />
+      <File FileName="TicketingApp/Models/Entity/Stage.cs" Line="1" Column="1" />
+      <File FileName="TicketingApp/Models/Entity/Transaksi.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicketingApp" expanded="True">
+            <Node name="TicketingApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="EventController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Context" expanded="True" />
+                <Node name="Entity" expanded="True" />
+                <Node name="Repository" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
